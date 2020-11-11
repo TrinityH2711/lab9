@@ -1,0 +1,12 @@
+.influence { background: lightblue;
+	padding: 1rem;
+}
+.backround {
+	background-image:url('images/backround.jpg');
+	padding:10rem;
+	color:black;
+	font-size: 5rem;
+	background-repeat: no-repeat;
+	background-size: cover;
+	max-width: 50%;
+}
